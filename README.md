@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yannellym
-- 👀 I’m interested in UX Design and Front End Web Development
+- 👀 My goal is to transition into a UI Engineer role. 
 - 🌱 I’m currently learning HTML, CSS, and UX Design
 - 💞️ I’m looking to collaborate on many different projects. If you want to practice, I'm open to collaborate with you.
 - 📫 How to reach me : yannellym@gmail.com
