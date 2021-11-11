@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning JavaScript, and UX Design
 - 💞️ I’m looking to collaborate on many different projects. If you want to practice, I'm open to collaborate with you.
 - 📫 How to reach me : yannellym@gmail.com
-<br>
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&lines=Hi!+My+name+is+Yannelly.+;I+love+to+code!;I+love+UX+Design)](https://git.io/typing-svg)
 <!---
 yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
