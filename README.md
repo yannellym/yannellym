@@ -9,6 +9,7 @@ yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <br>
+<h3>Social Media</h3>
 <a href="https://twitter.com/disssbi_">
   <img align="left" alt="Yannelly Mercado | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -16,7 +17,8 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Yannelly's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-Languages and Tools
+<br>
+<h3>Languages and Tools</h3>
 <br>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
