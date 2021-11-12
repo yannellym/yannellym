@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yannellym
-- 👀 My goal is to transition into a Front End Web Developer role. 
+- 👀 My goal is to transition into a Front End Engineer role. 
 - 🌱 I’m currently learning JavaScript, and UX Design
 - 💞️ I’m looking to collaborate on many different projects. If you want to practice, I'm open to collaborate with you.
 - 📫 How to reach me : yannellym@gmail.com
