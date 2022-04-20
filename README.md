@@ -43,7 +43,8 @@ You can click the Preview link to take a look at your changes.
 			 <h3 align="center" color="green">ReClaim</h2>
 			    <div align="center" >  
 					<a href=>
-						<a src=/>
+						<img src="https://media.giphy.com/media/Rr4o5Ckre2Z8sCpR0d/giphy.gif" alt="ReClaim" height="100%" />
+						<a src="https://reclaim-react.firebaseapp.com/" />
 					</a>
 					<br>
 					<br>
