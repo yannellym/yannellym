@@ -39,27 +39,28 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 	<table>
 		<tr>
-			<td width="50%">
-				<h3 align="center" color="orange">ReClaim</h2>
-				<div align="center" >  
+		     <td width="50%">
+			 <h3 align="center" color="green">ReClaim</h2>
+			    <div align="center" >  
 					<a href=>
 						<a src=/>
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href= target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						<a href="https://github.com/yannellym/reclaim" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						<a href="https://reclaim-react.firebaseapp.com/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Breaking Bad fans to find general information about their favorite characters!</p>
+					<p>A marketplace for people to collect recyclables and re-use them for a new purpose or project.</p>
+				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, Firebase, MaterialUi, SwiperJS, Figma, Netlify, Git, Github</p>
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">WhereToGo</h2>
+				<h3 align="center" color="green">WhereToGo</h2>
 				<div align="center" >  
 					<a href=>
 						<img src="" height="100%" />
@@ -67,18 +68,19 @@ You can click the Preview link to take a look at your changes.
 					<br>
 					<br>
 					<p>
-						<a href="" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						<a href="https://deft-axolotl-60d6d5.netlify.app target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						<a href="https://deft-axolotl-60d6d5.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
+					 <p>A site that serves as a map and guide. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location. </p>
+				    <p><strong>Technologies used:</strong>CSS, React, NPM, Javascript, GoogleMaps API, RapidAPI, Netlify, Git, Github, Axios, MaterialUI.</p>
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white"></h2>
+			<h3 align="center" color="green">GitHub Search</h2>
 			<div align="center" >  
 				<a href="">
 					<img src="" height="100%" />
@@ -86,18 +88,19 @@ You can click the Preview link to take a look at your changes.
 				<br>
 				<br>
 				<p>
-					<a href="" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
+					<a href="https://github.com/yannellym/githubSearch" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://adorable-vacherin-c76ead.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
+						</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+				 <p>An app that lets you search for Github users. The search can return one or multiple users at once. </p>
+				    <p><strong>Technologies used:</strong>CSS, React, NPM, Javascript, GraphQL, GraphiQL, Figma, Netlify, Git, Github, Axios, MaterialUI. </p>
 			</div>
 		</td>
 		<td width="50%">
-			<h3 align="center" color="white">Github Search</h2>
+			<h3 align="center" color="green">Guess a Number</h2>
 			<div align="center" >  
 				<a href="">
 					<img src="" alt="" height="100%" />
@@ -105,14 +108,15 @@ You can click the Preview link to take a look at your changes.
 				<br>
 				<br>
 				<p>
-					<a href="" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
+					<a href="https://github.com/yannellym/randomNumberGame" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://jovial-swirles-45f469.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
+						</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OOP.</p>
+					 <p>A game that asks users to guess a number between 1-100. Users have 10 chances to guess correctly. Will you guess the correct number?!  </p>
+				    <p><strong>Technologies used:</strong>CSS, Javascript, Netlify, Git, Github.</p>
 			</div>	
 		</td>
 	</table>
