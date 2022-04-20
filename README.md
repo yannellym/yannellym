@@ -1,4 +1,4 @@
-# Hi! My name is Yannelly. 
+# Hi! My name is Yannelly 👋 
 Developer. Designer. Passionate Learner. 
 
 I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in web development, and user experience. I create products with the end users in mind.
