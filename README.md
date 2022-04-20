@@ -1,7 +1,7 @@
 # Hi! My name is Yannelly. 
 Developer. Designer. Passionate Learner. 
 
-I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. My focus is web development, and user experience. I create products with the end users in mind.
+I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in web development, and user experience. I create products with the end users in mind.
 <!---
 yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,16 +23,22 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+    <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
+	<a href="https://firebase.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+	<a href="https://graphql" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+	 <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> 
+	<a href="https://mui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 	
+	
 </p>
+
 <!-- Work-->
 
 <h2 align="left" color="green">My Work: </h2>
@@ -62,14 +68,15 @@ You can click the Preview link to take a look at your changes.
 			</td>
 			<td width="50%">
 				<h3 align="center" color="green">WhereToGo</h2>
-				<div align="center" >  
+				<div align="center">  
 					<a href=>
-						<img src="" height="100%" />
+						<img src="https://media.giphy.com/media/5H7yrHim6CXt0kltKE/giphy.gif" alt="WhereToGo" height="100%" />
+						<a src="https://deft-axolotl-60d6d5.netlify.app/" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://deft-axolotl-60d6d5.netlify.app target="_blank">
+						<a href="https://github.com/yannellym/WhereToGo"_blank">
 							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://deft-axolotl-60d6d5.netlify.app/" target="_blank">
@@ -84,7 +91,8 @@ You can click the Preview link to take a look at your changes.
 			<h3 align="center" color="green">GitHub Search</h2>
 			<div align="center" >  
 				<a href="">
-					<img src="" height="100%" />
+					<img src="https://media.giphy.com/media/oKzXJbPDpplEpsaqb6/giphy.gif" height="100%" />
+					<a src="https://adorable-vacherin-c76ead.netlify.app/" />
 				</a>
 				<br>
 				<br>
@@ -104,7 +112,8 @@ You can click the Preview link to take a look at your changes.
 			<h3 align="center" color="green">Guess a Number</h2>
 			<div align="center" >  
 				<a href="">
-					<img src="" alt="" height="100%" />
+					<img src="https://media.giphy.com/media/4jz3IP7MAaLLZRjVVX/giphy.gif" alt="" height="100%" />
+					 <a src="https://jovial-swirles-45f469.netlify.app/" />
 				</a>
 				<br>
 				<br>
