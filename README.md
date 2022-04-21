@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Work-->
 
-<h2 align="left" color="green">My Work: </h2>
+<h2 align="left">My Work: </h2>
 <div align="center">
 	<table>
 		<tr>
