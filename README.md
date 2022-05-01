@@ -87,6 +87,26 @@ You can click the Preview link to take a look at your changes.
 				    <p><strong>Technologies used:</strong>CSS, React, NPM, Javascript, GoogleMaps API, RapidAPI, Netlify, Git, Github, Axios, MaterialUI.</p>
 				</div>
 	<tr>
+																	       <td width="50%">
+			 <h3 align="center" color="green">BakedByBrynn</h2>
+			    <div align="center" >  
+					<a href=>
+						<img src="https://media.giphy.com/media/3PRMCqLVC66veuR2zD/giphy.gif" alt="BakedByBrynn" height="100%" />
+						<a src="https://bakedbybrynn.vercel.app/" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/yannellym/bakedByBrynn" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://bakedbybrynn.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
+						</a>	
+					</p>
+					<p> An e-commerce website for a client and local baker who sells cupcakes. </p>
+				    <p><strong>Technologies used:</strong> React, NextJS, Redux, CSS, NPM, Javascript, Axios, Cloudinary, MongoDB, EmailJS, Figma, Vercel, Git, Github</p>
+				</div>
 		<td width="50%">
 			<h3 align="center" color="green">GitHub Search</h2>
 			<div align="center" >  
@@ -107,27 +127,6 @@ You can click the Preview link to take a look at your changes.
 				 <p>An app that lets you search for Github users. The search can return one or multiple users at once. </p>
 				    <p><strong>Technologies used:</strong>CSS, React, NPM, Javascript, GraphQL, GraphiQL, Figma, Netlify, Git, Github, Axios, MaterialUI. </p>
 			</div>
-		</td>
-		<td width="50%">
-			<h3 align="center" color="green">Guess a Number</h2>
-			<div align="center" >  
-				<a href="">
-					<img src="https://media.giphy.com/media/4jz3IP7MAaLLZRjVVX/giphy.gif" alt="" height="100%" />
-					 <a src="https://jovial-swirles-45f469.netlify.app/" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/yannellym/randomNumberGame" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://jovial-swirles-45f469.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
-						</a>	
-				</p>
-					 <p>A game that asks users to guess a number between 1-100. Users have 10 chances to guess correctly. Will you guess the correct number?!  </p>
-				    <p><strong>Technologies used:</strong>CSS, Javascript, Netlify, Git, Github.</p>
-			</div>	
 		</td>
 	</table>
 </div>
