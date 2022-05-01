@@ -132,5 +132,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br />
 <br />
+																	       
+## Resume
+																	       
+![Screen Shot 2022-05-01 at 6 57 50 PM](https://user-images.githubusercontent.com/91508647/166167958-703f3ebc-17ce-43ff-a1f0-98d987e5d623.png)
 
 
