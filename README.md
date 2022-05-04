@@ -4,7 +4,7 @@ Developer. Designer. Passionate Learner.
 I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in web development, and user experience.
 
 <h3> Portfolio & Website </h3>
-yannellymercado.com
+http://yannellymercado.com/
 <!---
 yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -137,7 +137,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 																	       
 ## Resume
-																	       
-![Screen Shot 2022-05-01 at 6 57 50 PM](https://user-images.githubusercontent.com/91508647/166167958-703f3ebc-17ce-43ff-a1f0-98d987e5d623.png)
+![Screen Shot 2022-05-04 at 1 57 33 PM](https://user-images.githubusercontent.com/91508647/166751691-c79a61fd-19ab-42fa-b717-7f7605fb41fb.png)
 
 
