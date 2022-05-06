@@ -11,6 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Let's Connect!</h3>
+ Whenever I'm not coding, you can find me on twitter or LinkedIn chatting with other devs! 
+ 
+ <br/>
+ <br/>
 <a href="https://twitter.com/disssbi_">
   <img align="left" alt="Yannelly Mercado | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
