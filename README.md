@@ -143,6 +143,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 																	       
 ## Resume
-![Screen Shot 2022-05-04 at 1 57 33 PM](https://user-images.githubusercontent.com/91508647/166751691-c79a61fd-19ab-42fa-b717-7f7605fb41fb.png)
+![Screen Shot 2022-05-25 at 7 00 42 PM](https://user-images.githubusercontent.com/91508647/170383159-19441d2d-9eac-4c6b-b1b6-f9c160506926.png)
+
 
 
