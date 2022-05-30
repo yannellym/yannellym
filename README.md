@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Let's Connect!</h3>
- Whenever I'm not coding, you can find me on twitter or LinkedIn chatting with other devs! 
+ Whenever I'm not coding, you can find me on Figma designing a new project, or on twitter/LinkedIn chatting with other devs! 
  
  <br/>
  <br/>
