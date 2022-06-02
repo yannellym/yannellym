@@ -5,6 +5,9 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 
 <h3> Portfolio & Website </h3>
 http://yannellymercado.com/
+
+<h4>Codewars Profile: </h4>
+https://www.codewars.com/users/yannellym
 <!---
 yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
