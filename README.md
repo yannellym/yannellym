@@ -58,24 +58,24 @@ You can click the Preview link to take a look at your changes.
 	<table>
 		<tr>
 		     <td width="50%">
-			 <h3 align="center" color="green">ReClaim</h2>
+			 <h3 align="center" color="green">Polly</h2>
 			    <div align="center" >  
 					<a href=>
-						<img src="https://media.giphy.com/media/Rr4o5Ckre2Z8sCpR0d/giphy.gif" alt="ReClaim" height="100%" />
-						<a src="https://reclaim-react.firebaseapp.com/" />
+						<img src="https://media.giphy.com/media/f7N2ALyBNS5FXJHpFR/giphy.gif" alt="Polly" height="90%" />
+						<a src="https://glittery-chimera-ced3b0.netlify.app" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/yannellym/reclaim" target="_blank">
+						<a href="https://github.com/yannellym/AAC_device" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://reclaim-react.firebaseapp.com/" target="_blank">
+						<a href="https://glittery-chimera-ced3b0.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
 						</a>	
 					</p>
-					<p>A marketplace for people to collect recyclables and re-use them for a new purpose or project.</p>
-				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, Firebase, MaterialUi, SwiperJS, Figma, Netlify, Git, Github</p>
+					<p>Polly is an augmentative and alternative communication (AAC) device for individuals that cannot communicate verbally. </p>
+				    <p><strong>Technologies used:</strong> React, NPM, Azure, Javascript, React BootStrap, Firebase, Styled Components, ESLint, FontSource, Sortable JS, Figma, Canva, Netlify, Git, Github</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -120,25 +120,25 @@ You can click the Preview link to take a look at your changes.
 				    <p><strong>Technologies used:</strong> React, NextJS, Redux, CSS, NPM, Javascript, Axios, Cloudinary, MongoDB, EmailJS, Figma, Vercel, Git, Github</p>
 				</div>
 		<td width="50%">
-			<h3 align="center" color="green">GitHub Search</h2>
-			<div align="center" >  
-				<a href="">
-					<img src="https://media.giphy.com/media/oKzXJbPDpplEpsaqb6/giphy.gif" height="100%" />
-					<a src="https://adorable-vacherin-c76ead.netlify.app/" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/yannellym/githubSearch" target="_blank">
+			<h3 align="center" color="green">ReClaim</h2>
+			    <div align="center" >  
+					<a href=>
+						<img src="https://media.giphy.com/media/Rr4o5Ckre2Z8sCpR0d/giphy.gif" alt="ReClaim" height="100%" />
+						<a src="https://reclaim-react.firebaseapp.com/" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/yannellym/reclaim" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://adorable-vacherin-c76ead.netlify.app/" target="_blank">
+						<a href="https://reclaim-react.firebaseapp.com/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
 						</a>	
-				</p>
-				 <p>An app that lets you search for Github users. The search can return one or multiple users at once. </p>
-				    <p><strong>Technologies used:</strong>CSS, React, NPM, Javascript, GraphQL, GraphiQL, Figma, Netlify, Git, Github, Axios, MaterialUI. </p>
-			</div>
+					</p>
+					<p>A marketplace for people to collect recyclables and re-use them for a new purpose or project.</p>
+				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, Firebase, MaterialUi, SwiperJS, Figma, Netlify, Git, Github</p>
+				</div>
 		</td>
 	</table>
 </div>
