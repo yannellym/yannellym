@@ -6,6 +6,9 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 <h3> Portfolio & Website </h3>
 http://yannellymercado.com/
 
+<h3> Resume </h3>
+http://yannellymercado.com/
+
 <h4>Codewars Profile: </h4>
 https://www.codewars.com/users/yannellym
 <!---
@@ -146,7 +149,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 																	       
 ## Resume
-![Screen Shot 2022-05-25 at 7 00 42 PM](https://user-images.githubusercontent.com/91508647/170383159-19441d2d-9eac-4c6b-b1b6-f9c160506926.png)
-
+![Screen Shot 2022-07-09 at 4 08 18 PM](https://user-images.githubusercontent.com/91508647/178121106-a7627a37-1331-453f-8dc7-297b84d0d134.png)
 
 
