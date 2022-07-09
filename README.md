@@ -7,7 +7,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 http://yannellymercado.com/
 
 <h3> Resume </h3>
-http://yannellymercado.com/
+https://docs.google.com/document/d/1r00P6_wPW6CINbpuSQcsW5UjpYU845helGL7fiJYFkw/edit
 
 <h4>Codewars Profile: </h4>
 https://www.codewars.com/users/yannellym
