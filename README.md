@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 			 <h3 align="center" color="green">Polly</h2>
 			    <div align="center" >  
 					<a href=>
-						<img src="https://media.giphy.com/media/f7N2ALyBNS5FXJHpFR/giphy.gif" alt="Polly" height="90%" />
+						<img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
 						<a src="https://glittery-chimera-ced3b0.netlify.app" />
 					</a>
 					<br>
