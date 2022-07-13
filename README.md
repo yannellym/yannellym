@@ -73,9 +73,12 @@ You can click the Preview link to take a look at your changes.
 						<a href="https://github.com/yannellym/AAC_device" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://glittery-chimera-ced3b0.netlify.app" target="_blank">
+						<a href="https://originalpollyapp.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
-						</a>	
+						</a>
+						<a href="azurepollyapp.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/-WITH AZURE-green?style=for-the-badge&color=008000"/>
+						</a>
 					</p>
 					<p>Polly is an augmentative and alternative communication (AAC) device for individuals that cannot communicate verbally. </p>
 				    <p><strong>Technologies used:</strong> React, NPM, Azure, Javascript, React BootStrap, Firebase, Styled Components, ESLint, FontSource, Sortable JS, Figma, Canva, Netlify, Git, Github</p>
