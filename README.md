@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 			    <div align="center" >  
 					<a href=>
 						<img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
-						<a src="https://glittery-chimera-ced3b0.netlify.app" />
+						<a src="https://originalpollyapp.netlify.app" />
 					</a>
 					<br>
 					<br>
