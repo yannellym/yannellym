@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 						<a href="https://originalpollyapp.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
 						</a>
-						<a href="azurepollyapp.netlify.app" target="_blank">
+						<a href="https://azurepollyapp.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-WITH AZURE-green?style=for-the-badge&color=008000"/>
 						</a>
 					</p>
