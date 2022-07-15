@@ -74,10 +74,10 @@ You can click the Preview link to take a look at your changes.
 							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://originalpollyapp.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
+							<img src="https://img.shields.io/badge/-Live APP-green?style=for-the-badge&color=008000"/>
 						</a>
 						<a href="https://azurepollyapp.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-WITH AZURE-green?style=for-the-badge&color=008000"/>
+							<img src="https://img.shields.io/badge/-APP WITH AZURE-green?style=for-the-badge&color=008000"/>
 						</a>
 					</p>
 					<p>Polly is an augmentative and alternative communication (AAC) device for individuals that cannot communicate verbally. </p>
