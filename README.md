@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 	 <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> 
 	<a href="https://mui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 	
 		<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+		<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 		
 	
 </p>
