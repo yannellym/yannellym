@@ -1,7 +1,11 @@
 # Hi! My name is Yannelly 👋 
 Engineer. Designer. Passionate Learner. 
 
-I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in web development, and user experience. I really enjoy working with ReactJS, Figma, SQL, and am looking forward to learning Java soon. 
+I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in web development, and user experience. 
+
+😁 - I really enjoy working with ReactJS, Figma, and Firebase. <br/>
+✏️ - I'm currently learning Python and studying for the AWS Solutions Architect Certification. <br/>
+💻 - I'm looking forward to learning Java soon. <br/>
 
 <h3> Portfolio & Website </h3>
 http://yannellymercado.com/
@@ -38,6 +42,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
     <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
