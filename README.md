@@ -158,6 +158,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 																	       
 ## Resume
-![Screen Shot 2022-07-09 at 4 08 18 PM](https://user-images.githubusercontent.com/91508647/178121106-a7627a37-1331-453f-8dc7-297b84d0d134.png)
 
+
+<img width="506" alt="Screen Shot 2022-08-17 at 1 54 47 AM" src="https://user-images.githubusercontent.com/91508647/185045021-63c9116a-f42a-46bf-83d1-ddb5694edf1e.png">
 
