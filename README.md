@@ -4,7 +4,7 @@ Engineer. Designer. Passionate Learner.
 I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in web development, and user experience. 
 
 😁 - I really enjoy working with ReactJS, Python, Figma, and Firebase. <br/>
-✏️ - I'm currently learning Python and studying for the AWS Solutions Architect Certification. <br/>
+✏️ - I'm currently practicing Python and studying for the AWS Solutions Architect Certification. <br/>
 💻 - I'm looking forward to learning Java soon. <br/>
 
 <h3> Portfolio & Website </h3>
