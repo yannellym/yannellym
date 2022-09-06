@@ -159,6 +159,5 @@ You can click the Preview link to take a look at your changes.
 																	       
 ## Resume
 
-
-<img width="506" alt="Screen Shot 2022-08-17 at 1 54 47 AM" src="https://user-images.githubusercontent.com/91508647/185045021-63c9116a-f42a-46bf-83d1-ddb5694edf1e.png">
+<img width="528" alt="yannellymercado_resume" src="https://user-images.githubusercontent.com/91508647/188718291-afb39c7a-0c9c-4102-9a00-87dcaa1b1970.png">
 
