@@ -5,6 +5,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 
 😁 - I really enjoy working with Python, ReactJS, SQL, and AWS <br/>
 ✏️ - I'm currently practicing Advanced Python topics and studying for the AWS Solutions Architect Certification. <br/>
+📜 - I'm currently completing my masters in Computer Science <br/>
 💻 - I'm looking forward to learning Java soon. <br/>
 
 <h3> Portfolio & Website </h3>
