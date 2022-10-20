@@ -158,7 +158,8 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 																	       
-## Resume
 
-<img width="528" alt="yannellymercado_resume" src="https://user-images.githubusercontent.com/91508647/188718291-afb39c7a-0c9c-4102-9a00-87dcaa1b1970.png">
+Resume
+
+## ![resume_screenshot](https://user-images.githubusercontent.com/91508647/197031233-50f79751-cde0-43d5-a423-1b8f70e8f34b.png)
 
