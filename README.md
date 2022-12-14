@@ -12,7 +12,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 http://yannellymercado.com/
 
 <h3> Resume </h3>
-https://docs.google.com/document/d/1o483OGx6uYYvBx8uunuyzH_EFXNmrdufiNcxivs6i7U/edit?usp=sharing
+https://docs.google.com/document/d/19sM2KxFGweiFGFe4iiDyOzdrvASJZMhjzYDfuLXOEc4/edit?usp=sharing
 
 <h4>Codewars Profile: </h4>
 https://www.codewars.com/users/yannellym
@@ -161,5 +161,6 @@ You can click the Preview link to take a look at your changes.
 
 Resume
 
-## ![resume_screenshot](https://user-images.githubusercontent.com/91508647/197031233-50f79751-cde0-43d5-a423-1b8f70e8f34b.png)
+## ![Screen Shot 2022-12-14 at 12 01 33 PM](https://user-images.githubusercontent.com/91508647/207660168-3de48fc1-01fb-415b-8b57-877bce7c517f.png)
+
 
