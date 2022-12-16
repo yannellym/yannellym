@@ -5,7 +5,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 
 😁 - I enjoy working with: Python, ReactJS, SQL, and AWS <br/>
 📜 - I'm currently completing: A Masters degree in Computer Science <br/>
-💻 - I'm working on: Learning Java and mastering Data Structures and Algorithms <br/>
+💻 - I'm working on: Learning Java, AI/ML, and mastering Data Structures and Algorithms <br/>
 ✏️ - Certifications: AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals, AWS Solutions Architect Associate <br/>
 
 <h3> Portfolio & Website </h3>
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Let's Connect!</h3>
- Whenever I'm not coding, you can find me on Figma designing a new project, learning a new technology, or on twitter/LinkedIn chatting with other devs! 
+ Whenever I'm not coding, you can find me playing Piano, learning a new technology, or on twitter/LinkedIn chatting with other devs! 
  
  <br/>
  <br/>
@@ -40,23 +40,24 @@ You can click the Preview link to take a look at your changes.
 ## Languages and Tools 📈
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
-     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-    <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/>  
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
-	<a href="https://firebase.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-	<a href="https://graphql" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-	 <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> 
-	<a href="https://mui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 	
-		<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-		<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> 
+	    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png" title="Java" />
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> 
+     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank" title="NodeJS"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> 
+    <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" title="Sass"/>  
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" title="MongoDB"/> 
+	<a href="https://firebase.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" title="Postman"/> </a>   
+	<a href="https://graphql" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png" title="GraphQL"/>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" title="GIT"/> 
+	 <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma"/> 
+	<a href="https://mui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png" title="Material UI"/> 	
+		<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
+		<img src="https://img.icons8.com/color/48/000000/azure-1.png" title="AZURE"/>
 		
 	
 </p>
