@@ -14,8 +14,9 @@ http://yannellymercado.com/
 <h3> Resume </h3>
 https://docs.google.com/document/d/19sM2KxFGweiFGFe4iiDyOzdrvASJZMhjzYDfuLXOEc4/edit?usp=sharing
 
-<h4>Codewars Profile: </h4>
-https://www.codewars.com/users/yannellym
+<h4>Leetcode Profile: </h4>
+https://leetcode.com/yannellym/
+
 <!---
 yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
