@@ -5,7 +5,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 
 😁 - I enjoy working with: Python, ReactJS, SQL, and AWS <br/>
 📜 - I'm currently completing: A Masters degree in Computer Science <br/>
-💻 - I'm working on: Learning AI(ML) in AWS, Kotlin, and mastering Data Structures and Algorithms <br/>
+💻 - I'm working on: Obtaining my AWS AI Professional Certification, mastering Data Structures and Algorithms, and learning Java. <br/>
 ✏️ - Certifications: AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals, AWS Solutions Architect Associate <br/>
 
 <h3> Portfolio & Website </h3>
