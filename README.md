@@ -163,5 +163,6 @@ You can click the Preview link to take a look at your changes.
 
 Resume
 
-## ![Screenshot 2023-05-24 at 4 23 13 PM](https://github.com/yannellym/yannellym/assets/91508647/0d43ed60-ab54-4ecf-9a04-580f30a578a6)
+## 
 
+![Screenshot 2023-05-30 at 7 56 30 PM](https://github.com/yannellym/yannellym/assets/91508647/8224840c-ad41-4d71-a017-d8a0a948e58c)
