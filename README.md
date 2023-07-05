@@ -5,8 +5,8 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 
 😁 - I enjoy working with: Python, ReactJS, SQL, and AWS <br/>
 📜 - I'm currently completing: A Masters degree in Computer Science <br/>
-💻 - I'm working on: Obtaining my AWS AI Professional Certification, mastering Data Structures and Algorithms, and learning Java. <br/>
-✏️ - Certifications: AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals, AWS Solutions Architect Associate <br/>
+💻 - I'm working on: Creating Machine Learning projects, mastering Data Structures and Algorithms, and learning Java. <br/>
+✏️ - Certifications: AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals. <br/>
 
 <h3> Portfolio & Website </h3>
 http://yannellymercado.com/
@@ -163,6 +163,6 @@ You can click the Preview link to take a look at your changes.
 
 Resume
 
-## 
+## ![Screenshot 2023-07-05 at 11 37 39 AM](https://github.com/yannellym/yannellym/assets/91508647/fe52a00a-cad5-43ec-ac2a-6941595a2293)
 
-![Screenshot 2023-05-30 at 7 56 30 PM](https://github.com/yannellym/yannellym/assets/91508647/8224840c-ad41-4d71-a017-d8a0a948e58c)
+
