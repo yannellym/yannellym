@@ -161,8 +161,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 																	       
 
-Resume
+Resume<br />
 
-## ![Screenshot 2023-07-05 at 11 37 39 AM](https://github.com/yannellym/yannellym/assets/91508647/fe52a00a-cad5-43ec-ac2a-6941595a2293)
-
+![Screenshot 2023-07-12 at 5 42 04 PM](https://github.com/yannellym/yannellym/assets/91508647/63e9991c-8332-494b-b7e5-a2649f934ea8)
 
