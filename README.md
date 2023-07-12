@@ -12,7 +12,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 http://yannellymercado.com/
 
 <h3> Resume </h3>
-https://docs.google.com/document/d/19sM2KxFGweiFGFe4iiDyOzdrvASJZMhjzYDfuLXOEc4/edit?usp=sharing
+https://docs.google.com/document/d/1zTbeg0QZ2ynLWH1aJUljWIU0-hQikE5wgoq067Q9dXQ/edit?usp=sharing
 
 <h4>Leetcode Profile: </h4>
 https://leetcode.com/yannellym/
@@ -22,19 +22,19 @@ yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<h4> Twitter: </h4>
+	https://twitter.com/disssbi_    
+<h4> LinkedIn:  </h4>
+
+https://www.linkedin.com/in/yannellymercado/ 
+
 <h3>Let's Connect!</h3>
  Whenever I'm not coding, you can find me playing Piano, learning a new technology, or on twitter/LinkedIn chatting with other devs! 
  
  <br/>
  <br/>
-<a href="https://twitter.com/disssbi_">
-  <img align="left" alt="Yannelly Mercado | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yannellymercado/">
-  <img align="left" alt="Yannelly's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
-<br>
+ 
+
 
 <!-- Languages -->
 
