@@ -45,7 +45,7 @@ https://www.linkedin.com/in/yannellymercado/
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> 
-	    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png" title="Java" />
+	    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icons8.com/icon/2572/java" title="Java" />
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png" title="React"/> 
      <a style="padding-right:8px;" href="https://nodejs.org" target="_blank" title="NodeJS"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/> 
@@ -72,9 +72,8 @@ https://www.linkedin.com/in/yannellymercado/
 		     <td width="50%">
 			 <h3 align="center" color="green">Polly</h2>
 			    <div align="center" >  
-					<a href=>
+					<a href="https://originalpollyapp.netlify.app">
 						<img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
-						<a src="https://originalpollyapp.netlify.app" />
 					</a>
 					<br>
 					<br>
@@ -96,9 +95,8 @@ https://www.linkedin.com/in/yannellymercado/
 			<td width="50%">
 				<h3 align="center" color="green">WhereToGo</h2>
 				<div align="center">  
-					<a href=>
+					<a href="https://deft-axolotl-60d6d5.netlify.app/">
 						<img src="https://media.giphy.com/media/5H7yrHim6CXt0kltKE/giphy.gif" alt="WhereToGo" height="100%" />
-						<a src="https://deft-axolotl-60d6d5.netlify.app/" />
 					</a>
 					<br>
 					<br>
@@ -111,15 +109,16 @@ https://www.linkedin.com/in/yannellymercado/
 						</a>	
 					</p>
 					 <p>A site that serves as a map and guide. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location. </p>
-				    <p><strong>Technologies used:</strong>CSS, React, NPM, Javascript, GoogleMaps API, RapidAPI, Netlify, Git, Github, Axios, MaterialUI.</p>
+				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, GoogleMaps API, RapidAPI, Netlify, Git, Github, Axios, MaterialUI.</p>
 				</div>
-	<tr>
-																	       <td width="50%">
-			 <h3 align="center" color="green">BakedByBrynn</h2>
-			    <div align="center" >  
-					<a href=>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="green">BakedByBrynn</h2>
+				<div align="center" >  
+					<a href="https://bakedbybrynn.vercel.app/">
 						<img src="https://media.giphy.com/media/3PRMCqLVC66veuR2zD/giphy.gif" alt="BakedByBrynn" height="100%" />
-						<a src="https://bakedbybrynn.vercel.app/" />
 					</a>
 					<br>
 					<br>
@@ -134,12 +133,12 @@ https://www.linkedin.com/in/yannellymercado/
 					<p> An e-commerce website for a client and local baker who sells cupcakes. </p>
 				    <p><strong>Technologies used:</strong> React, NextJS, Redux, CSS, NPM, Javascript, Axios, Cloudinary, MongoDB, EmailJS, Figma, Vercel, Git, Github</p>
 				</div>
-		<td width="50%">
-			<h3 align="center" color="green">ReClaim</h2>
-			    <div align="center" >  
-					<a href=>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="green">ReClaim</h2>
+				<div align="center" >  
+					<a href="https://reclaim-react.firebaseapp.com/">
 						<img src="https://media.giphy.com/media/Rr4o5Ckre2Z8sCpR0d/giphy.gif" alt="ReClaim" height="100%" />
-						<a src="https://reclaim-react.firebaseapp.com/" />
 					</a>
 					<br>
 					<br>
@@ -154,8 +153,28 @@ https://www.linkedin.com/in/yannellymercado/
 					<p>A marketplace for people to collect recyclables and re-use them for a new purpose or project.</p>
 				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, Firebase, MaterialUi, SwiperJS, Figma, Netlify, Git, Github</p>
 				</div>
-		</td>
-	</table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" width="100%">
+				<h3 align="center" color="green">Pet Image Classifier</h2>
+				<div align="center" >  
+					<a href="https://github.com/yannellym/pet_image_classifier">
+						<img src="https://github.com/yannellym/yannellym/assets/91508647/b838f72b-c12d-4e00-823c-da2c830ecb9c"/>
+						<img src="https://github.com/yannellym/pet_image_classifier/raw/main/demo.gif" alt="Pet Image Classifier" height="90%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/yannellym/pet_image_classifier" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
+						</a>  	
+					</p>
+					<p> An image classifier for pet images. Trained a deep learning model to accurately classify images as either dogs or not dogs. Implemented data preprocessing, model training, and evaluation. </p>
+				    <p><strong>Technologies used: CSS, Python, TensorFlow, Keras, OpenCV, and Matplotlib
+	</tr>	
+				    </table>
+
 </div>
 <br />
 <br />
