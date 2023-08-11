@@ -12,7 +12,7 @@ I'm a creative Software Engineer with a passion for finding solutions to complex
 http://yannellymercado.com/
 
 <h3> Resume </h3>
-https://docs.google.com/document/d/1zTbeg0QZ2ynLWH1aJUljWIU0-hQikE5wgoq067Q9dXQ/edit?usp=sharing
+(https://docs.google.com/document/d/1-L5ojIRqVhM3mFwi0vQIsbI6JH0B_OXOMgOs8piGsGk/edit?usp=sharing)
 
 <h4>Leetcode Profile: </h4>
 https://leetcode.com/yannellym/
