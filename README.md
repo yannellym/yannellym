@@ -181,6 +181,6 @@ https://www.linkedin.com/in/yannellymercado/
 																	       
 
 Resume<br />
+![Screenshot 2023-08-10 at 8 11 49 PM](https://github.com/yannellym/yannellym/assets/91508647/c5c4f666-50ec-4221-a2d3-3d85fa8c5fea)
 
-![Screenshot 2023-07-12 at 5 42 04 PM](https://github.com/yannellym/yannellym/assets/91508647/63e9991c-8332-494b-b7e5-a2649f934ea8)
 
