@@ -1,7 +1,10 @@
 # Hi! My name is Yannelly 👋 
 Innovation is my playground, and I'm all about making user experiences that leave a mark.
 
-I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in innovation, and user experience. 
+I'm not your typical Engineer – I'm on a mission to solve problems and create innovative solutions. From coding sleek applications to mastering communication, management, and leadership, I bring a unique blend of skills to the table. When it comes to technology, I thrive with Python, ReactJS, SQL, and AWS. Currently pursuing a Masters degree in Computer Science, I'm also diving deep into Machine Learning projects and sharpening my expertise in Data Structures and Algorithms.
+
+With badges like AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, and Microsoft Certified: Azure fundamentals, I've got the credentials to match my passion. Join me as I shake up the tech world with innovation and a whole lot of coding passion! 😉
+
 
 😁 - I enjoy working with: Python, ReactJS, SQL, and AWS <br/>
 📜 - I'm currently completing: A Masters degree in Computer Science <br/>
