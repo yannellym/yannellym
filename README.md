@@ -1,5 +1,5 @@
 # Hi! My name is Yannelly 👋 
-Engineer. Innovator. Passionate Learner.
+Innovation is my playground, and I'm all about making user experiences that leave a mark.
 
 I'm a creative Software Engineer with a passion for finding solutions to complex problems. I enjoy learning, and challenging myself to push beyond my boundaries. I’m experienced with designing, developing, and maintaining applications. I excel in the areas of communication, management, and leadership. I thrive in innovation, and user experience. 
 
