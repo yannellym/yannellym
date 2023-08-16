@@ -1,5 +1,4 @@
 # Hi! My name is Yannelly 👋 
-Innovation is my playground, and I'm all about making user experiences that leave a mark.
 
 I'm not your typical Engineer – I'm on a mission to solve problems and create innovative solutions. From coding sleek applications to mastering communication, management, and leadership, I bring a unique blend of skills to the table. When it comes to technology, I thrive with Python, ReactJS, SQL, and AWS. Currently pursuing a Masters degree in Computer Science, I'm also diving deep into Machine Learning projects and sharpening my expertise in Data Structures and Algorithms.
 
