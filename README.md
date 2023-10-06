@@ -71,11 +71,11 @@ https://www.linkedin.com/in/yannellymercado/
 <div align="center">
 	<table>
 		<tr>
-		     <td width="50%">
+			<td width="50%">
 			 <h3 align="center" color="green">Polly</h2>
 			    <div align="center" >  
-					<a href="https://originalpollyapp.netlify.app">
-						<img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
+				<a href="https://originalpollyapp.netlify.app">
+					<img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
 					</a>
 					<br>
 					<br>
@@ -118,7 +118,7 @@ https://www.linkedin.com/in/yannellymercado/
 		<tr>
 			<td width="50%">
 				<h3 align="center" color="green">BakedByBrynn</h2>
-				<div align="center" >  
+				<div align="center">  
 					<a href="https://bakedbybrynn.vercel.app/">
 						<img src="https://media.giphy.com/media/3PRMCqLVC66veuR2zD/giphy.gif" alt="BakedByBrynn" height="100%" />
 					</a>
@@ -136,7 +136,42 @@ https://www.linkedin.com/in/yannellymercado/
 				    <p><strong>Technologies used:</strong> React, NextJS, Redux, CSS, NPM, Javascript, Axios, Cloudinary, MongoDB, EmailJS, Figma, Vercel, Git, Github</p>
 				</div>
 			</td>
-			<td width="50%">
+			<td width="30%">
+				<h3 align="center" style="color: green;">Image Classification App</h3>
+				<div align="center">
+				    <a href="https://github.com/yannellym/ImageClassifier">
+					<img src="https://github.com/yannellym/yannellym/assets/91508647/62bd32b9-bb7b-498d-9093-fce7d66b34a9" alt="Classifier_results" height="100%" />
+				    </a>
+				    <br>
+				    <br>
+				    <p>
+					<a href="https://github.com/yannellym/ImageClassifier" target="_blank">
+					    <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
+					</a>
+				    </p>
+				    <p>An image classification app for identifying various objects. The project includes model training, data preprocessing, and a user-friendly web interface for image classification.</p>
+				    <p><strong>Technologies used:</strong> PyTorch, Jupyter Notebook, JSON, Python, Torchvision, Numpy, Matplotlib </p>
+				</div>
+			</td>
+		<tr>
+			<td  width="50%">
+				<h3 align="center" color="green">Pet Image Classifier</h2>
+				<div align="center" >  
+					<a href="https://github.com/yannellym/pet_image_classifier">
+						<img src="https://github.com/yannellym/yannellym/assets/91508647/b838f72b-c12d-4e00-823c-da2c830ecb9c"/>
+						<img src="https://github.com/yannellym/pet_image_classifier/raw/main/demo.gif" alt="Pet Image Classifier" height="90%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/yannellym/pet_image_classifier" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
+						</a>  	
+					</p>
+					<p> An image classifier for pet images. Trained a deep learning model to accurately classify images as either dogs or not dogs. Implemented data preprocessing, model training, and evaluation. </p>
+				    <p><strong>Technologies used:Jupyter n
+		</td>	
+		<td width="50%">
 				<h3 align="center" color="green">ReClaim</h2>
 				<div align="center" >  
 					<a href="https://reclaim-react.firebaseapp.com/">
@@ -157,25 +192,7 @@ https://www.linkedin.com/in/yannellymercado/
 				</div>
 			</td>
 		</tr>
-		<tr>
-			<td colspan="2" width="100%">
-				<h3 align="center" color="green">Pet Image Classifier</h2>
-				<div align="center" >  
-					<a href="https://github.com/yannellym/pet_image_classifier">
-						<img src="https://github.com/yannellym/yannellym/assets/91508647/b838f72b-c12d-4e00-823c-da2c830ecb9c"/>
-						<img src="https://github.com/yannellym/pet_image_classifier/raw/main/demo.gif" alt="Pet Image Classifier" height="90%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/yannellym/pet_image_classifier" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  	
-					</p>
-					<p> An image classifier for pet images. Trained a deep learning model to accurately classify images as either dogs or not dogs. Implemented data preprocessing, model training, and evaluation. </p>
-				    <p><strong>Technologies used: CSS, Python, TensorFlow, Keras, OpenCV, and Matplotlib
-	</tr>	
-				    </table>
+</table>
 
 </div>
 <br />
