@@ -7,7 +7,7 @@ With badges like AWS Machine Learning Specialty, AWS Solutions Architect Associa
 
 😁 - I enjoy working with: Python, ReactJS, SQL, and AWS <br/>
 📜 - I'm currently completing: A Masters degree in Computer Science <br/>
-💻 - I'm working on: Creating Machine Learning projects, mastering Data Structures and Algorithms, and learning Java. <br/>
+💻 - I'm working on: Developing my backend knowledge, mastering Data Structures and Algorithms, and learning Java. <br/>
 ✏️ - Certifications: AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals. <br/>
 
 <h3> Portfolio & Website </h3>
