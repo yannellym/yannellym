@@ -24,10 +24,6 @@ yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h4> Twitter: </h4>
-	https://twitter.com/disssbi_    
-<h4> LinkedIn:  </h4>
-
 https://www.linkedin.com/in/yannellymercado/ 
 
 <h3>Let's Connect!</h3>
@@ -69,132 +65,166 @@ https://www.linkedin.com/in/yannellymercado/
 
 <h2 align="left">My Work: </h2>
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-			 <h3 align="center" color="green">Polly</h2>
-			    <div align="center" >  
-				<a href="https://originalpollyapp.netlify.app">
-					<img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/yannellym/AAC_device" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://originalpollyapp.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-Live APP-green?style=for-the-badge&color=008000"/>
-						</a>
-						<a href="https://azurepollyapp.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-APP WITH AZURE-green?style=for-the-badge&color=008000"/>
-						</a>
-					</p>
-					<p>Polly is an augmentative and alternative communication (AAC) device for individuals that cannot communicate verbally. </p>
-				    <p><strong>Technologies used:</strong> React, NPM, Azure, Javascript, React BootStrap, Firebase, Styled Components, ESLint, FontSource, Sortable JS, Figma, Canva, Netlify, Git, Github</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center" color="green">WhereToGo</h2>
-				<div align="center">  
-					<a href="https://deft-axolotl-60d6d5.netlify.app/">
-						<img src="https://media.giphy.com/media/5H7yrHim6CXt0kltKE/giphy.gif" alt="WhereToGo" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/yannellym/WhereToGo"_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://deft-axolotl-60d6d5.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
-						</a>	
-					</p>
-					 <p>A site that serves as a map and guide. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location. </p>
-				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, GoogleMaps API, RapidAPI, Netlify, Git, Github, Axios, MaterialUI.</p>
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td width="50%">
-				<h3 align="center" color="green">BakedByBrynn</h2>
-				<div align="center">  
-					<a href="https://bakedbybrynn.vercel.app/">
-						<img src="https://media.giphy.com/media/3PRMCqLVC66veuR2zD/giphy.gif" alt="BakedByBrynn" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/yannellym/bakedByBrynn" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://bakedbybrynn.vercel.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
-						</a>	
-					</p>
-					<p> An e-commerce website for a client and local baker who sells cupcakes. </p>
-				    <p><strong>Technologies used:</strong> React, NextJS, Redux, CSS, NPM, Javascript, Axios, Cloudinary, MongoDB, EmailJS, Figma, Vercel, Git, Github</p>
-				</div>
-			</td>
-			<td width="30%">
-				<h3 align="center" style="color: green;">Image Classification App</h3>
-				<div align="center">
-				    <a href="https://github.com/yannellym/ImageClassifier">
-					<img src="https://github.com/yannellym/yannellym/assets/91508647/62bd32b9-bb7b-498d-9093-fce7d66b34a9" alt="Classifier_results" height="100%" />
-				    </a>
-				    <br>
-				    <br>
-				    <p>
-					<a href="https://github.com/yannellym/ImageClassifier" target="_blank">
-					    <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-					</a>
-				    </p>
-				    <p>An image classification app for identifying various objects. The project includes model training, data preprocessing, and a user-friendly web interface for image classification.</p>
-				    <p><strong>Technologies used:</strong> PyTorch, Jupyter Notebook, JSON, Python, Torchvision, Numpy, Matplotlib </p>
-				</div>
-			</td>
-		<tr>
-			<td  width="50%">
-				<h3 align="center" color="green">Pet Image Classifier</h2>
-				<div align="center" >  
-					<a href="https://github.com/yannellym/pet_image_classifier">
-						<img src="https://github.com/yannellym/yannellym/assets/91508647/b838f72b-c12d-4e00-823c-da2c830ecb9c"/>
-						<img src="https://github.com/yannellym/pet_image_classifier/raw/main/demo.gif" alt="Pet Image Classifier" height="90%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/yannellym/pet_image_classifier" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  	
-					</p>
-					<p> An image classifier for pet images. Trained a deep learning model to accurately classify images as either dogs or not dogs. Implemented data preprocessing, model training, and evaluation. </p>
-				    <p><strong>Technologies used:Jupyter n
-		</td>	
-		<td width="50%">
-				<h3 align="center" color="green">ReClaim</h2>
-				<div align="center" >  
-					<a href="https://reclaim-react.firebaseapp.com/">
-						<img src="https://media.giphy.com/media/Rr4o5Ckre2Z8sCpR0d/giphy.gif" alt="ReClaim" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/yannellym/reclaim" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://reclaim-react.firebaseapp.com/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000"/>
-						</a>	
-					</p>
-					<p>A marketplace for people to collect recyclables and re-use them for a new purpose or project.</p>
-				    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, Firebase, MaterialUi, SwiperJS, Figma, Netlify, Git, Github</p>
-				</div>
-			</td>
-		</tr>
-</table>
-
+    <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center" style="color: green;">ShelterLink</h3>
+                <div align="center">
+                    <a href="https://github.com/yannellym/ShelterLink">
+                        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJyMWNrd3Y0NXdpdXFmMjVvaHk4NmlhbWtyZ3N4azEyNTltMnBsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHrnW2qeBBHKvM3JyT/giphy.gif" height="100%">
+                    </a>
+<!-- 		    <a href="https://reclaim-react.firebaseapp.com/" target="_blank">
+		    ''
+		    </a> -->
+                    <br /><br />
+                    <p>
+			<a href="https://shelterlinkbestfriend.com/" target="_blank">
+		    		<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000" />
+		    	</a>
+                        <a href="https://github.com/yannellym/ShelterLink" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                    </p>
+		    <p><strong>Focus:</strong> Full Stack</p>
+                    <p>An app to discover adoptable pets around you. You can express interest with one click, and be a part of a community.</p>
+                    <p><strong>Technologies used:</strong> React, React Hooks, Custom Hooks, Axios, GraphQL Subscriptions, Lazy Loading, Skeleton Loading, Font Awesome, Figma, Chrome DevTools, AWS Amplify, Python, GraphQL, DynamoDB, AWS Cognito, AWS Lambda, API Gateway, AWS CloudWatch, AWS CloudFormation, Lambda@Edge, AWS Pinpoint, AWS AppSync, AWS Route53, Nominatim, Google APIs, Unsplash API, Petfinder API, GitHub, and AWS CodePipeline.</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center" style="color: green;">ReClaim</h3>
+                <div align="center">
+                    <a href="https://reclaim-react.firebaseapp.com/">
+                        <img src="https://media.giphy.com/media/Rr4o5Ckre2Z8sCpR0d/giphy.gif" alt="ReClaim" height="100%" />
+                    </a>
+                    <br /><br />
+                    <p>
+                        <a href="https://github.com/yannellym/reclaim" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                        <a href="https://reclaim-react.firebaseapp.com/" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000" />
+                        </a>
+                    </p>
+		    <p><strong>Focus:</strong> Full Stack</p>
+                    <p>A marketplace for people to collect recyclables and re-use them for a new purpose or project.</p>
+                    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, Firebase, MaterialUi, SwiperJS, Figma, Netlify, Git, Github</p>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center" style="color: green;">WhereToGo</h3>
+                <div align="center">
+                    <a href="https://deft-axolotl-60d6d5.netlify.app/">
+                        <img src="https://media.giphy.com/media/5H7yrHim6CXt0kltKE/giphy.gif" alt="WhereToGo" height="100%" />
+                    </a>
+                    <br /><br />
+                    <p>
+                        <a href="https://github.com/yannellym/WhereToGo" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                        <a href="https://deft-axolotl-60d6d5.netlify.app/" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000" />
+                        </a>
+                    </p>
+		    <p><strong>Focus:</strong> APIs</p>
+                    <p>A site that serves as a map and guide. You can type the name of a city/state and it’ll recommend restaurants, attractions, or hotels near that location.</p>
+                    <p><strong>Technologies used:</strong> CSS, React, NPM, Javascript, GoogleMaps API, RapidAPI, Netlify, Git, Github, Axios, MaterialUI.</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center" style="color: green;">BakedByBrynn</h3>
+                <div align="center">
+                    <a href="https://bakedbybrynn.vercel.app/">
+                        <img src="https://media.giphy.com/media/3PRMCqLVC66veuR2zD/giphy.gif" alt="BakedByBrynn" height="100%" />
+                    </a>
+                    <br /><br />
+                    <p>
+                        <a href="https://github.com/yannellym/bakedByBrynn" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                        <a href="https://bakedbybrynn.vercel.app/" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=008000" />
+                        </a>
+                    </p>
+		    <p><strong>Focus:</strong> Frontend/ Full Stack</p>
+                    <p>An e-commerce website for a client and local baker who sells cupcakes.</p>
+                    <p><strong>Technologies used:</strong> React, NextJS, Redux, CSS, NPM, Javascript, Axios, Cloudinary, MongoDB, EmailJS, Figma, Vercel, Git, Github</p>
+                </div>
+            </td>
+        </tr>
+	<tr>
+            <td width="50%">
+                <h3 align="center" style="color: green;">Image Classification App</h3>
+                <div align="center">
+                    <a href="https://github.com/yannellym/ImageClassifier">
+                        <img src="https://github.com/yannellym/yannellym/assets/91508647/62bd32b9-bb7b-498d-9093-fce7d66b34a9" alt="Classifier_results" height="100%" />
+                    </a>
+                    <br /><br />
+                    <p>
+                        <a href="https://github.com/yannellym/ImageClassifier" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                    </p>
+		    <p><strong>Focus:</strong> AI </p>
+                    <p>An image classification app for identifying various objects. The project includes model training, data preprocessing, and a user-friendly web interface for image classification.</p>
+                    <p><strong>Technologies used:</strong> PyTorch, Jupyter Notebook, JSON, Python, Torchvision, Numpy, Matplotlib</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center" style="color: green;">Pet Image Classifier</h3>
+                <div align="center">
+                    <a href="https://github.com/yannellym/pet_image_classifier">
+                        <img src="https://github.com/yannellym/yannellym/assets/91508647/b838f72b-c12d-4e00-823c-da2c830ecb9c"/>
+                    </a>
+                    <br /><br />
+                    <p>
+                        <a href="https://github.com/yannellym/pet_image_classifier" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                    </p>
+		    <p><strong>Focus:</strong> AI </p>
+                    <p>An image classifier for pet images. Trained a deep learning model to accurately classify images as either dogs or not dogs. Implemented data preprocessing, model training, and evaluation.</p>
+                    <p><strong>Technologies used:</strong> Mention technologies used for this project</p>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center" style="color: green;">Polly</h3>
+                <div align="center">
+                    <a href="https://originalpollyapp.netlify.app">
+                        <img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" height="90%" />
+                    </a>
+                    <br /><br />
+                    <p>
+                        <a href="https://github.com/yannellym/AAC_device" target="_blank">
+                            <img src="https://img.shields.io/badge/Repo-red?style=for-the-badge&logo=github" />
+                        </a>
+                        <a href="https://originalpollyapp.netlify.app" target="_blank">
+                            <img src="https://img.shields.io/badge/-Live APP-green?style=for-the-badge&color=008000" />
+                        </a>
+                        <a href="https://azurepollyapp.netlify.app" target="_blank">
+                            <img src="https://img.shields.io/badge/-APP WITH AZURE-green?style=for-the-badge&color=008000" />
+                        </a>
+                    </p>
+                    <p>Polly is an augmentative and alternative communication (AAC) device for individuals that cannot communicate verbally.</p>
+                    <p><strong>Technologies used:</strong> React, NPM, Azure, Javascript, React BootStrap, Firebase, Styled Components, ESLint, FontSource, Sortable JS, Figma, Canva, Netlify, Git, Github</p>
+                </div>
+            </td>
+        </tr>
+    </table>
 </div>
+
+
 <br />
 <br />
 																	       
