@@ -189,7 +189,7 @@ https://www.linkedin.com/in/yannellymercado/
                     </p>
 		    <p><strong>Focus:</strong> AI </p>
                     <p>An image classifier for pet images. Trained a deep learning model to accurately classify images as either dogs or not dogs. Implemented data preprocessing, model training, and evaluation.</p>
-                    <p><strong>Technologies used:</strong> Mention technologies used for this project</p>
+                    <p><strong>Technologies used:</strong> </strong> PyTorch, Jupyter Notebook, JSON, Python, Torchvision, Numpy, Matplotlib</p>
 			<br/>
 			<br/>
 			<br/>
