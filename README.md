@@ -24,6 +24,8 @@ yannellym/yannellym is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<h4>LinkedIn Profile: </h4>
+
 https://www.linkedin.com/in/yannellymercado/ 
 
 <h3>Let's Connect!</h3>
