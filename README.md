@@ -1,13 +1,13 @@
 # Hi! My name is Yannelly 👋 
 
-I'm not your typical Engineer – I'm on a mission to solve problems and create innovative solutions. From coding sleek applications to mastering communication, management, and leadership, I bring a unique blend of skills to the table. When it comes to technology, I thrive with Python, ReactJS, SQL, and AWS. Currently pursuing a Masters degree in Computer Science, I'm also diving deep into Machine Learning projects and sharpening my expertise in Data Structures and Algorithms.
+I'm not your typical Engineer – I'm on a mission to solve problems and create innovative solutions. From coding sleek applications to mastering communication, management, and leadership, I bring a unique blend of skills to the table. When it comes to technology, I thrive with Python, ReactJS, SQL, and AWS. I have a Masters degree in Computer Science, and another one in Education. I'm really interested in Machine Learning and sharpening my expertise in Data Structures and Algorithms.
 
 With badges like AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, and Microsoft Certified: Azure fundamentals, I've got the credentials to match my passion. Join me as I shake up the tech world with innovation and a whole lot of coding passion! 😉
 
 
-😁 - I enjoy working with: Python, ReactJS, SQL, and AWS <br/>
-📜 - I'm currently completing: A Masters degree in Computer Science <br/>
-💻 - I'm working on: Developing my backend knowledge, mastering Data Structures and Algorithms, and learning Java. <br/>
+😁 - I enjoy working with: Python, ReactJS, SQL, and AWS. <br/>
+📜 - I'm currently learning: How to use dbt, and more advanced SQL queries. <br/>
+💻 - I'm working on: Developing my data handling knowledge, mastering Data Structures and Algorithms, and learning about AI. <br/>
 ✏️ - Certifications: AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals. <br/>
 
 <h3> Portfolio & Website </h3>
