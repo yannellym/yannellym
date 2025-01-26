@@ -14,7 +14,7 @@ With badges like AWS Machine Learning Specialty, AWS Solutions Architect Associa
 http://yannellymercado.com/
 
 <h3> Resume </h3>
-(https://docs.google.com/document/d/1iUa468SHoVPEQlZYzmJMrOTEw9EpKlJIiOPlLC86-kU/edit?usp=sharing)
+([https://docs.google.com/document/d/1iUa468SHoVPEQlZYzmJMrOTEw9EpKlJIiOPlLC86-kU/edit?usp=sharing])
 
 <h4>Leetcode Profile: </h4>
 https://leetcode.com/yannellym/
