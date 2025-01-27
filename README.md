@@ -11,7 +11,7 @@ With badges like AWS Machine Learning Specialty, AWS Solutions Architect Associa
 ✏️ - Certifications: AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals. <br/>
 
 <h3> Portfolio & Website </h3>
-http://yannellymercado.com/
+http://yannelly-mercado.com/
 
 <h3> Resume </h3>
 ([https://docs.google.com/document/d/1iUa468SHoVPEQlZYzmJMrOTEw9EpKlJIiOPlLC86-kU/edit?usp=sharing])
