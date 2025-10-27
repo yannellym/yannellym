@@ -8,7 +8,7 @@ With badges like AWS Machine Learning Specialty, AWS Solutions Architect Associa
 😁 - I enjoy working with: Python, ReactJS, SQL, and AWS. <br/>
 📜 - I'm currently learning: How to use dbt, and more advanced SQL queries. <br/>
 💻 - I'm working on: Developing my data handling knowledge, mastering Data Structures and Algorithms, and learning about AI. <br/>
-✏️ - Certifications: AWS Machine Learning Specialty, AWS Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals. <br/>
+✏️ - Certifications: AWS Machine Learning Specialty, AWS Data Engineer Associate, AWS Solutions Architect Associate, AWS Cloud Practitioner, Microsoft Certified: Azure fundamentals. <br/>
 
 <h3> Portfolio & Website </h3>
 http://yannelly-mercado.com/
